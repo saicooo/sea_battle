@@ -1,0 +1,3 @@
+C:/Users/SAICO/Desktop/sea_battle_1/sea_battle/build/CMakeFiles/seagame.dir
+C:/Users/SAICO/Desktop/sea_battle_1/sea_battle/build/CMakeFiles/edit_cache.dir
+C:/Users/SAICO/Desktop/sea_battle_1/sea_battle/build/CMakeFiles/rebuild_cache.dir

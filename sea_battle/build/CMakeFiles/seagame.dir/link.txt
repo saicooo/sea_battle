@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\seagame.dir/objects.a
+C:\msys64\mingw64\bin\ar.exe qc CMakeFiles\seagame.dir/objects.a @CMakeFiles\seagame.dir\objects1.rsp
+g++ -Wl,--whole-archive CMakeFiles\seagame.dir/objects.a -Wl,--no-whole-archive -o seagame.exe -Wl,--out-implib,libseagame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\seagame.dir\linkLibs.rsp
